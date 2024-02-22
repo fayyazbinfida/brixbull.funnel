@@ -1,0 +1,1325 @@
+@media  (max-width:1550px){
+	.agency-special  .video-tags {
+    top: -140px;
+    left: -150px;
+}
+}
+
+@media  (max-width:1400px){
+img.video-tags {    position: absolute;
+    top: -130px;
+    right: 0;
+}
+	.animate-from-left {
+    left: -50px;
+}
+h2.title-con {
+    font-size: 42px;
+}
+
+ul.access-outer li {
+    margin: 20px 34px 20px 0;
+}
+section.handsomely-outer {
+    padding: 140px 0 0;
+}
+
+.agency-special .pr-special-inner  h1 {
+    
+    font-size: 35px;
+}
+
+.agency-special  .video-tags {
+    left: -50px;
+}
+.agency-special .animate-from-left {
+    right: -50px;
+    top: 20px;
+}
+.agency-special .normal-price {
+    margin: 0;
+}
+.work-hard-heading h4 {    
+    font-size: 47px;
+    line-height: 60px;
+}
+
+section.everything-pro {
+    background-size: cover;
+    padding: 470px 0 0;
+    margin-top: -100px;
+}
+.steps-inner li {
+    margin: 0 9px;
+}
+.steps-inner {
+    margin: 50px 0 0;
+}
+
+.addition-con {
+    text-align: center;
+    padding: 200px 0 50px;
+}.client-manage {
+    margin: -380px 0 0;
+}
+
+.business-benifits h3.step-site {
+    margin: 0 0 40px;
+}
+.business-benifits-listing {
+    margin: 30px 0 0;
+}	
+.featured-succeed-outer {    
+    background-size: 100%;
+    padding: 210px 0 0;
+}
+
+section.editio-agency-outer {
+    background-size: 100% 40%;
+    padding: 220px 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+@media  (max-width:1200px){
+body {
+    font-size: 16px;
+}
+h2.title-con {
+    font-size: 28px;
+    line-height: 40px;
+}
+img.video-tags {
+    top: -120px;
+    right: 0px;
+}
+.pr-special-banner {
+    padding: 60px 0 260px;
+}
+.animate-from-left {
+    position: absolute;
+    left: 0;
+    z-index: 1;
+    top: -135px;
+    right: 0;
+    margin: auto;
+}
+section.desperately-pro::before {
+    display: none;
+}
+img.video-tags {
+    display: none;
+}
+.marketing-outer.marketing-pro {
+    margin: -230px 0 0;
+}
+.closin-outer {
+    text-align: center;
+    padding: 40px 0 60px;
+}
+.normal-price {
+    padding: 50px 20px 20px 20px;
+    margin: 5px 0;
+}
+.normal-price-left {
+    width: 100%;
+    padding: 0px 0px 20px 0px;
+}
+.normal-price-right {
+    width: 100%;
+    padding: 0 0 0 0px;
+    text-align: center;
+}
+.normal-price-right a.theme-btn {
+    width: 100%;
+    margin: 20px 0 10px;
+}
+.edition-iiner-left {
+    width: 100%;
+    padding: 0 20px 0 0px;
+}
+ul.consumer-outer li {
+    width: 100%;
+    padding: 10px 0px;
+}
+.incredible-title::before {
+    max-width: 100%;
+}
+.incredible-title {
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0 0 50px;
+}
+.retailers {
+    padding: 0 0px;
+    width: 100%;
+}
+.pro-edition-left {
+    float: left;
+    width: 100%;
+    padding: 0 0px 0 0;
+}
+.handsomely-citi-left {
+    width: 100%;
+}
+.handsomely-citi-right {
+    float: left;
+    width: 100%;
+    padding: 10px 10px;
+    text-align: left;
+}
+.rejections-left {
+    width: 100%;
+    padding: 0 0 0 30px;
+}
+ul.access-outer li {
+    width: 100%;
+    margin: 20px 0 20px 0;
+}
+.access-inner {
+    padding: 70px 14px 30px;
+}
+.genius-outer {
+    padding: 0 15px 50px;
+}
+.genius-outer-inner {
+    padding: 10px 20px;
+}
+.genius-outer.genius-countries .genius-outer-inner h5 {
+    width: 100%;
+}
+section.closed-upgrade.closed-upgrade2 .retailers {
+    padding: 0 15px 20px;
+}
+.amazing-inner li {
+    width: 100%;
+    padding: 10px 0;
+}
+section.new-account.easier-path .probably-left {
+    padding: 0 10px 0px;
+}
+.probably-left {
+    width: 100%;
+    padding: 0 10px 0px;
+}
+.probably-right {
+    width: 100%;
+    padding: 0 10px 0 20px;
+}
+.grab-inner li {
+    width: 100%;
+    padding: 10px;
+}
+.grab-started-inner {
+    padding: 15px;
+}
+.faq-main h3 {
+    color: #f4f4f4;
+    font-size: 60px;
+    font-weight: 800;
+}
+.tab-label {
+    padding: 20px;
+}
+.tab-label span {
+    font-size: 31px;
+}
+.tab-label strong {
+    padding: 0 0 0px 15px;
+    width: 100%;
+}
+.tab-label strong h4 {
+    font-size: 20px;
+}
+section.close-gorilla-outer.boost-main {
+    margin: 00px 0 -140px 0px;
+}
+.boost-outer {
+    padding: 20px 15px;
+}
+
+.boost-outer-left h3 {
+    font-size: 20px;
+    line-height: 30px;
+    margin: 20px 0;
+    padding: 0 0% 0 0;
+}
+.footer-top-left {
+    padding: 0 00px 0 0;
+    width: 100%;
+}
+.footer-top-left.footer-top-right {
+    padding: 0px 0 0 0px;
+    border-left: 0px solid #646060;
+}.footer-nav {
+    width: 78%;
+}
+.footer-logo {
+    width: 22%;
+}.footer-nav li {
+    float: left;
+}
+.footer-nav li a {
+    font-size: 13px;
+    margin-left: 25px;
+    font-size: 14px;
+    color: #fff;}
+.new-account-inner h2 {
+    font-size: 25px;
+}
+section.new-account.easier-path .new-account-inner h2 {
+    line-height: 39px;
+}
+section.handsomely-outer {
+    padding: 90px 0 10px;
+}
+.pro-edition-right h3 {
+    font-size: 20px;
+    line-height: 1.5;
+}
+section.rocket-outer.citations-pro {
+    padding-top: 80px;
+    background-size: auto 140%;
+    background-position: center;
+}
+.normal-price-right h2 {
+    font-size: 37px;
+}
+.normal-price-right h3 {
+    font-size: 17px;
+}
+
+
+
+
+/**/
+
+.rocket-outer {
+    background-position: center;
+    background-size: auto 150%;
+    padding: 100px 0 110px;
+    text-align: center;
+}
+.triple-pro-left {
+    width: 100%;
+    padding: 0 0px 0 0px;
+}
+.triple-pro-left li {
+    width: 100%;
+    padding: 8px 10px 10px 40px;
+    font-size: 17px;
+    line-height: 24px;
+}
+.vero-pro li {
+    width: 100%;
+    margin: 0 0px 60px 0;
+}
+.seo-report {
+    text-align: left;
+    padding: 10px 20px 40px;
+}
+.access-inner.video-training-left {
+    width: 100%;
+}
+.video-benifits {
+    float: left;
+    width: 100%;
+    padding: 16px;
+}
+.video-benifits iframe {
+    height: auto;
+}
+.upgrade-left {
+    width: 100%;
+    text-align: center;
+    padding: 0 0px 0 0;
+}
+.probably-outer {
+    padding: 80px 10px;
+}
+.upgrade-title h4 {
+    font-size: 30px;
+}
+.upgrade-title.closed-title h2.title-con span {
+    font-size: 45px;
+}
+.smart-retailers h3 {
+    font-size: 16px;
+    padding: 15px 0px;
+    top: -33px;
+    width: 290px;
+}
+.smart-retailers {
+    padding: 40px 20px;
+    margin: 50px 0 0;
+}
+section.fast-action-pro.bonus {
+    background-position:  center;
+    background-size: auto 140%;
+    padding: 90px 0 50px;
+    position: relative;
+}
+.guarantee-left {
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 0 20px 0 20px;
+}
+.guarantee-right {
+    text-align: left;
+    padding: 0 20px 0 20px;
+    float: left;
+    width: 100%;
+}
+.guarantee-right h3 {
+    font-size: 31px;
+}
+.probably-right.probably-full {
+    width: 100%;
+    padding: 20px 20px 40px;
+}
+.probably-right p {
+    line-height: 24px;
+    margin: 10px 0;
+    font-size: 15px;
+}
+.grab-started-top {
+    padding: 80px 20px 50px;
+}
+
+.pr-special-inner li a {
+    padding: 8px 20px;
+}
+
+section.fast-action-pro .amazing-inner-img img {
+    display: inline-block;
+}
+section.fast-action-pro.bonus .amazing-inner-img {
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+}
+.pr-special-banner.local-bussiness h3 {
+    font-size: 21px;
+    margin: 30px 0 0;
+}
+
+.rocket-outer h2.title-con {
+    margin: 0 0 10px;
+}
+.consumer-inner {
+    min-height: auto;
+}
+
+section.incredible-pro .upgrade-left.retailers {
+    text-align: left;
+}
+section.incredible-pro {
+    padding: 70px 0 180px;
+}
+
+.businesses-title {
+    margin: 0 0 40px;
+}
+
+.handsomely-citi-right h4 {
+    font-size: 23px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 160px;
+    margin: auto;
+    text-align: center;
+}
+ .handsomely-citi-right h3 {
+    font-size: 28px;
+    line-height: 40px;
+    margin: 0 0 0px;
+}
+
+.handsomely-citi-right h5 {
+    text-align: left;
+}
+.rejections-left {
+    padding: 0;
+    text-align: center;
+}
+.rejections-left.rejections-right {
+    text-align: center;
+    padding: 20px 0 0;
+}
+section.features-edition.features-edition2 {
+    padding: 0 0 50px;
+}
+.features-inner {
+    margin: 0 0 20px;
+    width: 100%;
+}
+.access-inner p {
+    min-height: auto;
+}
+
+.genius-outer.genius-countries .genius-outer-inner h5 {
+    padding: 9px 10px 0 50px;
+}
+.upgrade-title.closed-title h2.title-con {
+    margin: 0;
+}
+
+section.closed-upgrade.closed-upgrade2 .upgrade-left.retailers.retailers2 {
+    
+    padding-bottom: 0;
+}
+.cheatcode-pro {
+    padding: 350px 0 30px;
+}
+.cheatcode-pro h2.title-con {
+   margin: 0 0 30px;
+}
+section.offer-upgrade.ton-refferal {
+    padding: 50px 0 0;
+}
+section.offer-upgrade .probably-outer .upgrade-title {
+    margin: 0;
+}
+section.risk-bonus {
+    padding: 70px 0 0px;
+}
+
+.warning-inner-right h2 {
+    font-size: 29px;
+    line-height: 40px;
+}
+section.new-account.easier-path .probably-right {
+    padding-top: 30px;
+}
+section.grab-outer.today-grab.pro-edition-outer.ranking-pack {
+    padding: 100px 0 0;
+}
+.grab-started-inner h4 {
+    padding: 10px 0 0 40px;
+}
+
+section.grab-outer.today-grab.pro-edition-outer.ranking-pack {
+    padding: 100px 0 0;
+    margin: 0;
+}
+section.everything-pro {
+    padding: 380px 0 0;
+}
+section.everything-pro h4 {
+    font-size: 47px; 
+    margin: 30px 0 70px;
+}
+
+.steps-inner li {
+    margin: 0 7px;
+}
+.steps-inner li::before, .steps-inner li::after
+{
+	display:none;
+	
+}
+.local-marketing h3 {
+    font-size: 32px;
+    line-height: 44px;
+    margin: 20px 0 40px;
+}
+.business-row li {
+    width: 23.3%;
+    margin: 20px 15px 20px 0px;
+    padding: 20px;
+}
+
+.amazing-inner.circle-inner::before, .amazing-inner.circle-inner::after
+{
+	display:none;
+}
+
+.guarantee-right {
+    text-align: center;
+    padding: 0 20px 0 20px;
+}
+section.grab-outer {
+    padding: 150px 0 40px;
+}
+.agency-special .animate-from-left {
+    right: 20px;
+    top: 20px;
+}
+
+
+
+
+
+
+
+
+
+} 
+
+
+
+
+
+
+
+@media  (max-width:991px){
+.pr-special-inner li a {
+    padding: 8px 15px;
+    font-size: 12px;
+}
+.rocket-outer {
+    padding: 50px 0;   
+}
+section.triple-pro {
+    padding: 50px 0 410px;
+}
+section.triple-pro h2.title-con {
+    margin: 0 0 20px;
+}
+section.vero-pro {
+    margin: -320px 0 0px;
+    padding: 0;
+}
+.pro-edition {
+    background-size: cover;
+    padding: 60px 0;
+}
+
+section.features-edition {    
+    padding: 60px 0;
+}
+
+.features-inner {
+    margin: 0 0 20px;
+ }
+ul.access-outer li {
+    padding: 0 0 20px;
+}
+.access-inner p {
+    min-height: auto;
+}
+
+.upgrade-left p {
+    margin: 10px 0;
+}
+
+.upgrade-left p br
+{
+	display:none;
+}
+.upgrade-title h4 {
+    font-size: 30px;
+    margin: 40px 0 0;
+}
+
+.probably-outer {
+    padding: 80px 10px 0;
+}
+
+.closed-upgrade {
+    padding: 150px 0 90px;
+}
+.upgrade-title.closed-title h2.title-con {
+    margin: 0 0 10px;
+}section.fast-action-pro.bonus {
+    padding: 40px 0 50px;
+}
+
+section.guarantee-bonus {
+    padding: 190px 0 60px;
+}
+section.offer-upgrade .probably-outer .upgrade-title {
+    margin: 0;
+}
+.businesses-title {
+    margin: 10px 0px 0px;
+}
+section.new-account {
+    padding: 70px 0 30px;
+}
+section.grab-outer {
+    padding: 90px 0 40px;
+}
+.grab-started-inner h4 {
+    font-size: 17px;
+    background: url(../images/check-sign.png) no-repeat left 6px;
+    padding: 4px 0 2px 40px;
+}.grab-started-inner h4.cross-sign {
+    background: url(../images/cross.png) no-repeat left 6px;
+}
+.faq-outer {
+    padding: 40px 0 0;
+}
+.boost-outer-right {
+    padding: 50px 0 0 20px;
+}
+.footer-nav li a {
+    margin-left: 8px;
+    font-size: 12px;
+}
+.footer-nav {
+    padding: 17px 0 0;
+}section.offer-upgrade.ton-refferal {
+    padding: 20px 0 0;
+}
+
+
+
+
+section.incredible-pro {
+    padding: 70px 0 50px;
+    margin: 0;
+}
+.owner-bussiness h4 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 20px 0 0;
+}
+.agency-special .pr-special-inner  h2 {
+    font-size: 20px;
+}
+.agency-special .pr-special-inner  h1 {
+    font-size: 28px;
+    margin: 20px 0 0;
+}
+.wanted-agency-guarantee h4 {
+    font-size: 22px;
+}
+
+.wanted-agency-guarantee h5 {
+    font-size: 21px;
+}
+.wanted-agency-guarantee {
+    padding-bottom: 56px;
+}
+.work-hard-heading h4 {
+    font-size: 32px;
+    line-height: 40px;
+}
+section.everything-pro {
+    padding: 329px 0 0;
+}
+section.everything-pro h2.title-con {
+    margin: 0;
+}
+section.everything-pro  h3 {    
+    font-size: 18px;
+    margin: 30px 0 0px;
+}section.everything-pro h4 {
+    font-size: 34px;
+    margin: 10px 0 50px;
+}
+.section02-con {
+    padding: 20px 0 0;
+}
+.section02-con h2.title-con {
+    margin: 40px 0 0px;
+}
+.steps-inner {
+    margin: 30px 0 0;
+}
+.steps-inner li {
+    margin: 15px 0px;
+    width: 100%;
+}
+.steps-inner li p {
+    min-height: auto;
+}
+.addition-con {
+    padding: 150px 0 50px;
+}
+.pc-img-outer {
+    margin: 0px 0 50px;
+}h3.step-site {
+    font-size: 18px;
+    padding: 13px 10px 13px 70px;
+}
+h3.step-site strong {
+    top: -5px;
+    font-size: 21px;
+    width: 68px;
+    height: 68px;
+    padding: 19px 0 0;
+}
+.manage-outer li {
+    padding: 15px 14px 16px 80px;
+    margin: 13px 0;
+    font-size: 17px;
+}
+.client-manage {
+    margin: -330px 0 0;
+    background-size: 100% 100%;
+    padding: 170px 0 70px;
+}
+.addition-con {
+    padding: 150px 0 250px;
+}
+
+section.zapier-outer {
+    padding: 40px 0 30px;
+}
+.business-benifits-single {
+    width: 100%;
+    padding: 14px 0;
+}
+
+.featured-succeed-inner {
+    padding: 0px 0 40px;
+}
+
+.featured-succeed-outer {
+    padding: 180px 0 0;
+}
+.featured-succeed-outer .algorithim-inner li {
+    width: 100%;
+    margin: 51px 0;   
+    min-height: auto;
+}
+
+section.closin-outer.time-gurrentee .normal-price-right h4 {
+    font-size: 26px;
+    padding: 0;
+}
+.graphic-outer {
+    padding: 50px 0 0;
+}
+
+.hire-team li {
+    font-size: 16px;
+}
+.local-marketing h3 {
+    font-size: 26px;
+}
+.business-row li {
+    width: 100%;
+    margin: 20px 0;
+    padding: 20px;
+    min-height: auto;
+}
+section.fast-action-pro {
+    padding: 10px 0 0px;
+}
+.listen-para h3 {
+    font-size: 35px;
+    margin: 35px 0 0;
+}
+section.grab-outer.agency-grab {
+    background: #fff7e5;
+    padding: 50px 0;
+    margin: 50px 0 20px;
+}
+.opportunity-title h3 {    
+    font-size: 24px;
+    line-height: 37px;
+}
+.opportunity-title p {
+    font-size: 20px;
+    margin: 10px 0 10px;
+}
+
+
+}
+
+
+@media  (max-width:767px){
+
+.pr-special-inner li {
+    width: 100%;
+    text-align: center;
+}
+.pr-special-inner li a {
+    width: 100%;
+}
+h2.title-con br
+{
+	display:none;
+}.access-inner p {
+    font-size: 17px;
+    line-height: 28px;
+}
+.boost-outer-left {
+    width: 100%;
+    padding: 0 0 10px;
+    text-align: center;
+}
+.boost-outer-right {
+    padding: 10px 0 0 0;
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+footer.footer-outer.agency-footer {
+    padding-top: 200px;
+}
+.affiliated-top {
+    margin: 0;
+}
+.footer-logo {
+    width: 100%;
+	text-align:center;
+}
+.footer-nav {
+    padding: 7px 0 0;
+    text-align: center;
+    width: 100%;
+}
+.footer-bottom {
+    padding: 10px 0 0;
+}
+
+.edition-iiner-left.edition-iiner-right {
+    padding: 0;
+    text-align: left;
+}
+.pro-edition-left.pro-edition-right {
+    padding: 30px 0 0 0px;
+}
+section.closin-outer.citation-gurrentee {
+    padding-bottom: 0;
+}
+section.rocket-outer.citations-pro .edition-iiner-left.edition-iiner-right {
+    padding: 0;
+    text-align: center;
+}
+.incredible-title {
+    margin: 0 0 10px;
+    padding: 20px 10px;
+}
+.incredible-title h2 {
+    font-size: 23px;
+}
+.incredible-title h2 br {
+	display:none;
+}
+.much-business h4 {
+    font-size: 20px;
+}
+
+.handsomely-citi {
+    margin: 70px 0 0;
+}
+.rejections-right h3 {
+    font-size: 22px;
+    margin: 20px 0 0;
+}
+.warning-inner-right h2 {
+    font-size: 22px;
+    line-height: 31px;
+}
+.warning-inner-left {
+    padding: 80px 30px 0 0;	
+}
+
+.gurrentee { 
+    width: 120px;
+    left: -10px;
+}
+.warning-inner-right {
+    margin: 0;
+    float: left;
+    width: 50%;
+}
+.marketing-outer.marketing-pro {
+    margin: -110px 0 0;
+}
+section.desperately-pro {
+    margin: 50px 0 0;
+}
+.wanted-agency-left {
+    width: 100%;
+    padding: 0;
+    align-self: center;
+}
+.agency-special .desperately-pro .title-con {
+    padding-bottom: 0;
+}
+
+.wanted-agency-right {
+    width: 100%;
+    text-align: center;
+}
+.first-impression-left {
+    width: 100%;
+    text-align: center;
+}
+.first-impression-right {
+    width: 100%;
+    padding: 30px 0 0;   
+
+}
+.pre-papulated-left {
+    width: 100%;
+    padding: 0 15px;
+}
+.pre-papulated-left.pre-papulated-right {
+    padding-top: 30px;
+}
+.client-manage {
+    margin: -200px 0 0;
+    padding: 70px 0 20px;
+    background: #2d2c2c;
+}
+.client-manage-inner p {
+    margin: 40px 0 20px;
+}
+.manage-outer h4 {
+    font-size: 21px;
+    margin: 20px 0 20px;
+}.manage-outer ul {
+    width: 100%;
+}
+
+.manage-outer li {
+    padding: 15px 14px 16px 70px;
+    font-size: 17px;
+    background-size: 40px;
+}
+.pre-papulated-right p {
+    margin: 20px 0 0;
+}
+
+.featured-succeed-outer {
+    padding: 60px 0 0;
+    background: #2d2c2c;
+    margin: 50px 0;
+}
+section.editio-agency-outer {
+    padding: 50px 0;
+    background: #fff3cd;
+    margin: 50px 0;
+}
+
+.local-marketing h3 {
+    font-size: 22px;
+    line-height: 30px;
+}
+
+.local-marketing h3 br
+{
+	display:none;
+}
+.business-row {
+    padding: 30px 20px;
+}
+.guarantee-right p {
+    font-size: 16px;   
+}
+.new-account-inner.last-chance h2 br
+{
+	display:none;
+}
+.new-account-inner.last-chance h2 {
+    line-height: 31px;
+    font-size: 21px;
+    margin: 0 0 30px;
+}
+.listen-para {
+    padding: 0 20px 50px;
+}
+
+.probably-right {
+    padding: 0 20px 20px 20px;
+}
+
+section.grab-outer.agency-grab h2.title-con {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.opportunity-title h3 br
+{
+	display:none;
+}
+
+.pro-edition-right img {
+    width: 150px;
+}
+.steps-inner li h3 {
+    font-size: 68px;
+    margin: 0;
+}
+
+
+
+
+
+}
+
+
+
+@media  (max-width:639px){
+.pr-special-inner ul {
+    border-radius: 20px;   
+}
+
+h2.title-con {
+    font-size: 23px;
+    line-height: 30px;
+}
+.pr-special-inner p {
+    font-size: 16px;
+    line-height: 22px;
+}
+.rocket-outer h2.title-con {
+    margin: 0 0 30px;
+}
+
+
+.edition-iiner-right h3 {
+    margin: 20px 0 0px;
+}
+
+.edition-iiner-right p {
+    font-size: 16px;
+    margin: 13px 0;
+}
+.triple-pro-left h3 {
+    font-size: 16px;
+}
+
+.vero-pro li p {
+    font-size: 16px;
+    line-height: 27px;
+}
+
+.seo-report h5 span {
+    width: 100%;
+}
+.access-inner p {
+    font-size: 16px;
+    line-height: 27px;
+}
+.genius-outer-inner h6 {
+    font-size: 18px;
+}
+
+.genius-outer-inner h5 {
+    font-size: 16px;
+    padding: 5px 0 0 30px;
+    background-size: 20px;
+}
+
+.genius-outer.benifits .genius-outer-inner h5 {
+    background-size: 20px;
+}
+
+.upgrade-title h4 {
+    font-size: 20px;
+    margin: 20px 0 0;
+    padding: 8px 30px;
+}
+.upgrade-title.closed-title h2.title-con span {
+    font-size: 23px;
+}
+
+.fast-action-pro .amazing-inner-img h4 {
+    font-size: 20px;
+}
+.guarantee-right h3 {
+    font-size: 23px;
+    margin: 20px 0 20px;
+}
+.guarantee-right p {
+    font-size: 16px;
+}
+.guarantee-inner { 
+    padding: 0 0 30px;
+}
+.new-account-inner h2 {
+    font-size: 22px;
+    padding: 10px 10px;
+    line-height: 26px;
+}
+section.grab-outer {
+    padding: 70px 0 40px;
+}
+section.grab-outer h2.title-con {
+    margin: 20px 0 20px;
+}
+.boost-outer-left h3 {
+    font-size: 17px;
+    line-height: 27px;
+}
+.footer-nav li {
+    float: none;
+    display: inline-block;
+}
+
+.footer-nav li a {
+    margin: 0 10px;
+}
+.grab-started-top h3 {
+    font-size: 22px;   
+}
+.shines-outer {
+    padding: 10px 15px;
+}
+.access-inner h4 {
+    font-size: 22px;
+}
+.access-inner h3 {
+    font-size: 98px;
+    margin: 20px 0 40px;
+}
+.pr-special-inner li a {
+    width: 100%;
+    line-height: 20px;
+    border-radius: 20px;
+}
+
+section.new-account.easier-path .new-account-inner h2 br
+{
+	display:none;
+}
+
+.warning-inner-left {
+    padding: 80px 0 0 0;
+    width: 100%;
+}
+.warning-inner-right {
+    margin: 10px 0 0;
+    width: 100%;
+}
+section.risk-bonus {
+    padding: 40px 0 0px;
+}
+.handsomely-citi-right h3 {
+    font-size: 21px;
+    line-height: 26px;
+    margin: 0 0 0px;
+}
+
+section.handsomely-outer {
+    padding: 50px 0 10px;
+}
+
+
+
+
+.grab-started-inner h5 {
+    font-size: 20px;
+}
+
+.tab-label span {
+    font-size: 22px;
+}.tab-label strong h4 {
+    font-size: 18px;
+    line-height: 25px;
+}
+.opportunity-title h3 {
+    font-size: 18px;
+    line-height: 30px;
+}.opportunity-title p {
+    font-size: 16px;
+}
+
+.new-account-inner.last-chance h2 {
+    line-height: 31px;
+    font-size: 21px;
+    margin: 0 0 30px;
+    padding: 20px 15px;
+}.hire-team a.theme-btn {
+    font-size: 15px;
+    padding: 15px 40px;
+    margin: 30px 0 20px;
+}.hire-team h4 { 
+    font-size: 33px;
+}.hire-team h3 {
+    font-size: 16px; 
+}
+
+.hire-team li {
+    
+    background: url(../images/yellow-arrow.png) no-repeat  13px 10px;
+    padding: 0 0 0 50px;
+    line-height: 37px;
+    background-size: 27px;
+}
+.agency-special  .normal-price-right a.theme-btn {
+    width: auto;
+    font-size: 16px;
+    padding: 12px 30px;
+}
+section.zapier-outer .pre-papulated-left.pre-papulated-right {
+    padding-top: 10px;
+}
+.manage-outer ul {
+    padding: 0;
+}.addition-con h2.title-con {
+    margin: 0 0 40px;
+}
+.agency-special .pr-special-inner  h2 {
+    font-size: 17px;
+    letter-spacing: inherit;
+}
+.agency-special .pr-special-inner  h1 {
+    font-size: 23px;
+}.agency-special .pr-special-inner p {
+    font-size: 16px;  
+}
+.agency-special .animate-from-left {
+    display: none;
+}
+.agency-special .normal-price-right h2.title-con {
+    font-size: 20px;
+}
+.agency-special .normal-price-right h4 {
+    font-size: 18px;
+    padding: 10px 0 10px;
+}
+
+.work-hard-heading h4 {
+    font-size: 27px;
+    line-height: 40px;
+}
+
+
+.work-hard-heading h4 br
+{
+	display:none;
+}
+section.desperately-pro {
+    margin: 50px 0 -100px;
+}
+section.everything-pro h4 {
+    font-size: 23px;
+    margin: 10px 0 50px;
+}
+
+section.new-account.easier-path2 .probably-left {
+    padding: 0 20px;
+}
+
+.business-benifits-inner {
+    padding: 45px 16px 45px;
+}
+.business-benifits {
+    padding: 60px 15px 60px;
+}
+
+
+}
+
+
+@media  (max-width:479px){
+.grab-started-inner a.theme-btn {
+    font-size: 14px;
+    padding: 10px 10px;
+}
+
+
+}
